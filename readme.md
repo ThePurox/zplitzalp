@@ -20,7 +20,18 @@ A 20x15x5mm battery fits into the cutout. Solder its positive side (red wire) to
 Solder the [XIAO BLE](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html) to the boards.
 Do not forget the pads on the backside. These need to be soldered through the cutout, just as you did for the switches.
 
-The last thing to solder is the [on-off switch](MSK12C02).
+The last things to solder are 2 [MSK12C02 on-off switches](https://www.lcsc.com/product-detail/C431540.html), 2 [5.1x5.1mm reset buttons](https://www.lcsc.com/product-detail/C318884.html) and 14 [BAV70 diodes](https://www.lcsc.com/product-detail/C181110.html).
 
 Now it is time to install keycaps. You can get them printed at JLC3DP for relatively little money.
 You find the required files in [fookers mnhTTn repository](https://github.com/fooker/mnhttn/tree/main/keycaps).
+
+# Bill of Materials
+| component                                                                                                  | number required |
+|------------------------------------------------------------------------------------------------------------|-----------------|
+| [Cherry ultra low profile switches](https://www.cherry.de/en-us/products/mx-switches/mx-ultra-low-profile) | 28              |
+| Keycaps for the switches                                                                                   | 28              |
+| [XIAO BLE](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html)                                | 2               |
+| [MSK12C02 on-off switches](https://www.lcsc.com/product-detail/C431540.html)                               | 2               |
+| [5.1x5.1mm reset buttons](https://www.lcsc.com/product-detail/C318884.html)                                | 2               |
+| [BAV70 diodes](https://www.lcsc.com/product-detail/C181110.html)                                           | 14              |
+| 20x15x5mm battery                                                                                          | 2               |
